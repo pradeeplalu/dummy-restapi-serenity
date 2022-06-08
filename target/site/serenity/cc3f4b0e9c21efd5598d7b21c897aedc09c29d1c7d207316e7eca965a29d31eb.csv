@@ -1,0 +1,8 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Employee CURD test","1. Verify if total records are 24","ERROR","2022-06-08T00:01:15.554+01:00[Europe/London]","0.0","1.19"
+"Employee CURD test","2. Verify if 24th Data id is 24","ERROR","2022-06-08T00:01:16.759+01:00[Europe/London]","0.0","0.09"
+"Employee CURD test","3. Verify if 23rd employee name is Doris Wilder","ERROR","2022-06-08T00:01:16.853+01:00[Europe/London]","0.0","0.11"
+"Employee CURD test","5. Verify if status is success","ERROR","2022-06-08T00:01:17.087+01:00[Europe/London]","0.0","0.15"
+"Employee CURD test","6. Verify 3rd id salary is 86000","ERROR","2022-06-08T00:01:17.239+01:00[Europe/London]","0.0","0.4"
+"Employee CURD test","7. Verify 6th id age is 61","ERROR","2022-06-08T00:01:17.651+01:00[Europe/London]","0.0","0.1"
+"Employee CURD test","8. Verify 11th id name is Jena Gaines","ERROR","2022-06-08T00:01:17.768+01:00[Europe/London]","0.0","0.09"

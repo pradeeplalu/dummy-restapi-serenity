@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Employee CURD test","This will create a new employee","FAILURE","2022-06-08T00:01:08.868+01:00[Europe/London]","0.0","6.13"
+"Employee CURD test","This will Read an employee by ID","FAILURE","2022-06-08T00:01:15.064+01:00[Europe/London]","0.0","0.13"
+"Employee CURD test","This will Update an employee by ID","FAILURE","2022-06-08T00:01:15.205+01:00[Europe/London]","0.0","0.22"
+"Employee CURD test","This will Delete an employee by ID","FAILURE","2022-06-08T00:01:15.424+01:00[Europe/London]","0.0","0.12"
+"Employee CURD test","4. Verify if message is Successfully! All records has been fetched","FAILURE","2022-06-08T00:01:16.978+01:00[Europe/London]","0.0","0.11"
